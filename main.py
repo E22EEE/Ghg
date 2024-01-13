@@ -15,7 +15,7 @@ failed=0
 
 G = '\033[1;32m'
 R = '\033[1;31m'
-own_id='2139948716'
+own_id='6595765447'
 tele_bot=Config.TG_BOT.TOKEN
 ch='qwertyuioplkjhgfdsazxcvbnm1234567890'
 def create():
