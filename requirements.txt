@@ -1,9 +1,3 @@
 websocket
-ssl
-os
-json
-gzip
-requests
-time
-random
-concurrent.futures
+telebot
+websocket-client
